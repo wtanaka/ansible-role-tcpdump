@@ -6,6 +6,9 @@ wtanaka.tcpdump
 
 Installs tcpdump
 
+Tcpdump prints out a description of the contents of packets on a
+network interface that match the boolean expression.
+
 Example Playbook
 ----------------
 
